@@ -4,7 +4,7 @@
 #if edad_usuario<18: 
     #print("-->No puedes pasar<--")
 #elif edad_usuario>130:
-    #print("fuckyou pinche gringo")
+    #print("Edad invalida")
 #else:
     #print("-->Puedes pasar<--")
 
