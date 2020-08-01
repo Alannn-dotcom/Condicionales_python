@@ -1,2 +1,2 @@
 # Condicionales_python
-"Condicionales básicos en python"
+Ejercicios de condicionales básicos en python
